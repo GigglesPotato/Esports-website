@@ -1,3 +1,11 @@
+"""
+admin.py
+Description: all admin registers for the models
+Written by: Noah Leeper
+Created on: 04/17/2025
+Last Updated on: 04/18/2025
+"""
+
 from django.contrib import admin
 from .models import Game, College, Team, StudentProfile, RecruiterProfile, Message
 

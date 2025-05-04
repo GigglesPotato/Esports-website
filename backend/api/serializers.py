@@ -1,3 +1,11 @@
+"""
+serializers.py
+Description: All serializers for the models
+Written by: Noah Leeper
+Created on: 04/17/2025
+Last Updated on: 04/18/2025
+"""
+
 from rest_framework import serializers
 from .models import Game, College, Team, StudentProfile, RecruiterProfile, Message
 from django.contrib.auth.models import User

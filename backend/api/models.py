@@ -1,3 +1,11 @@
+"""
+models.py
+Description: This is the model for my esports website backend
+Written by: Noah Leeper
+Created on: 04/17/2025
+Last Updated on: 04/18/2025
+"""
+
 from django.db import models
 from django.contrib.auth.models import User
 
